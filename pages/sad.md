@@ -18,7 +18,7 @@ title: sad
 :PROPERTIES:
 :later: 1606649038474
 :END:
-## NOW asd
+## LATER asd
 :PROPERTIES:
 :now: 1606649040941
 :END:
